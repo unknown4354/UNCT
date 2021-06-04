@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230816713458",
+    "project_id": "uncover-trucks",
+    "storage_bucket": "uncover-trucks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230816713458:android:9c9764ed81f291edf2de6b",
+        "android_client_info": {
+          "package_name": "com.androidjson.unct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230816713458-fh3bnfabmf3km16m1pr69l2jeevbg9a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidjson.unct",
+            "certificate_hash": "d7fbc0760ed2a1b57f9e19d7d4d041e1d1c1bd9c"
+          }
+        },
+        {
+          "client_id": "230816713458-5bph6bql2gv3ru0d5nlgq770pm55dkid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQNwmWpJZ24hM4qR-bV-WSm62R84RXPEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230816713458-5bph6bql2gv3ru0d5nlgq770pm55dkid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

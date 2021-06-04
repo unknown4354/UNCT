@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UNCT</string>
+    <string name="you_re_logged_in_as">You\'re Logged In as</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+</resources>
